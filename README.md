@@ -1,16 +1,92 @@
-## Hi there 👋
 
-<!--
-**sheikhseraj/sheikhseraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Seraj A. Siddiqui
 
-Here are some ideas to get you started:
+### ☁️ AWS Cloud & Infrastructure Engineer | Test Automation & Quality Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an **ISTQB-certified Test Manager / Test Automation Engineer** transitioning into **AWS Cloud & Infrastructure Engineering**.
+
+I bring several years of experience in **software quality, test automation, CI/CD, and engineering environments**, now combining that background with hands-on learning in **AWS, Linux, networking, Infrastructure as Code, Terraform, Python, and cloud security**.
+
+🎯 **Career Focus:** AWS Cloud Engineer · Infrastructure Engineer · Junior AWS Solutions Architect · Cloud/DevOps Engineer
+
+---
+
+## ☁️ Cloud & Infrastructure
+
+* Amazon Web Services (AWS)
+* VPC & Networking
+* EC2
+* S3
+* IAM
+* CloudWatch
+* Linux
+* Infrastructure as Code
+* Terraform
+
+## ⚙️ DevOps & Automation
+
+* Git & GitHub
+* CI/CD
+* Jenkins
+* GitHub Actions
+* Python
+* Docker
+* Automation
+
+## 🧪 Quality Engineering
+
+* Test Automation
+* Playwright
+* Selenium
+* Tricentis Tosca
+* API Testing
+* Regression & UAT
+* Agile / Scrum
+* ISTQB Certified
+
+---
+
+## 🚀 Featured Projects
+
+### ☁️ AWS Cloud & Infrastructure
+
+Coming soon — hands-on AWS projects covering networking, compute, storage, security and monitoring.
+
+### 🏗️ Infrastructure as Code
+
+Coming soon — Terraform-based AWS infrastructure projects.
+
+### ⚙️ CI/CD & Cloud Automation
+
+Coming soon — automated deployment pipelines integrating GitHub, CI/CD and AWS.
+
+### 🐍 Python & AWS Automation
+
+Coming soon — Python-based automation for cloud and infrastructure tasks.
+
+---
+
+## 📚 Currently Learning
+
+**AWS Cloud Computing mit KI**
+
+* AWS Cloud Architecture
+* Linux & Networking
+* AWS Security & IAM
+* Terraform
+* Python
+* Serverless
+* Databases
+* Generative AI
+* Infrastructure as Code
+
+---
+
+## 🔗 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/sheikh-seraj/)
+* 🌐 [Website](https://iamseraj.com)
+
+---
+
+⭐ I'm building my journey from **Software Quality & Test Automation → AWS Cloud & Infrastructure Engineering**.
