@@ -89,4 +89,23 @@ Coming soon — Python-based automation for cloud and infrastructure tasks.
 
 ---
 
+## 🐍 My GitHub Contributions
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sheikhseraj/sheikhseraj/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sheikhseraj/sheikhseraj/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/sheikhseraj/sheikhseraj/output/github-snake.svg"
+  />
+</picture>
+
+---
+
 ⭐ I'm building my journey from **Software Quality & Test Automation → AWS Cloud & Infrastructure Engineering**.
